@@ -1,3 +1,4 @@
+![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?t=st=1654778633~exp=1654779233~hmac=1ac617d73befc8c5e062e70d0bd6d51d651f872f7ab55c00a707523c63549ad8&w=1380)
 <h1 align="center">Hi 👋, I'm Sajith Madusankha</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
