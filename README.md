@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajith Madusankha <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Sajith Madusankha</h1>
 <h3 align="center">A passionate Java and Full-Stack (and a beginner designer) developer from Srilanka</h3>
 
 - 🌱 I’m currently learning **Java, HTML5 and CSS3**
