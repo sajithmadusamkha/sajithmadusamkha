@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **sajithmadusankha02@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, gaming coding of course**
+- ⚡ What I like to do: **I like so much reading, gaming and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
