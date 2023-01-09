@@ -39,6 +39,12 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://wordpress.org/" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
 <p align= "center">
