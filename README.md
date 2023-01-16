@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajith Madusankha</h1>
 <h3 align="center">A passionate Java and Full-Stack (and a beginner designer) developer from Srilanka</h3>
 
-- 🌱 I’m currently learning **Java, HTML5 and CSS3**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
