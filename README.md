@@ -48,6 +48,9 @@
   <a href="https://wordpress.org/" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://react.dev/" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
 <p align= "center">
