@@ -52,7 +52,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="git" width="40" height="40"/> 
   </a>
   <a href="https://angular.io/docs" target="_blank"> 
-    <img src="https://www.pngegg.com/en/png-svzgz" alt="git" width="40" height="40"/> 
+    <img src="https://w7.pngwing.com/pngs/752/651/png-transparent-angularjs-vue-js-others-angle-rectangle-triangle-thumbnail.png" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
